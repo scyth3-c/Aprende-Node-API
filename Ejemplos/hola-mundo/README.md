@@ -34,7 +34,7 @@ aqui veremos paso a paso como hacer el hola mundo usando los addons c++ con node
  } 
 ```
 
-    que si eres observador notaras que es un simple json que contiene un arreglo de los objetivos para compilar, dichos "objetivos" tienen tanto el nombre clave por el cual identificaremos luego en JavaScript y el "sources" que son los codigos fuentes que lo componen.
+que si eres observador notaras que es un simple json que contiene un arreglo de los objetivos para compilar, dichos "objetivos" tienen tanto el nombre clave por el cual identificaremos luego en JavaScript y el "sources" que son los codigos fuentes que lo componen.
 
 
 <hr/>
