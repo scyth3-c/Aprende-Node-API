@@ -1,3 +1,5 @@
+*-lock.json
+build/
 # Logs
 logs
 *.log
